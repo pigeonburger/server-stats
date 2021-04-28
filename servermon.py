@@ -50,7 +50,7 @@ while True:
         # Get percentage of RAM in use
         totalmem = str(psutil.virtual_memory().percent)
 
-        # Check how much total storage you have, and how much is taken up. For Windows, change it from '/' to 'C:\'
+        # Check how much total storage you have, and how much is taken up. For Windows, change it from '/' to 'C:\\'
         store = psutil.disk_usage('/')
         totalstore = RenderBytes.format(store.total, metric=True, precision=2)
         usedstore = RenderBytes.format(store.used, metric=True, precision=2)
