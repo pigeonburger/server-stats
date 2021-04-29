@@ -10,6 +10,7 @@ An example JSON output of this program can be found at https://pigeonburger.xyz/
 
 - Python 3.6 or above
 - psutil library (install using `pip install psutil`)
+- A blank file created called `server.json` that only has `{}` inside it. (not doing this will result in the program erroring out)
 
 The comments inside `servermon.py` explain what everything does, I recommend reading them.
 
