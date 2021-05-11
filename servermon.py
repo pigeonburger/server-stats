@@ -1,5 +1,5 @@
 # Server stats monitor by Pigeonburger
-# https://github.com/pygeonburger/server-stats
+# https://github.com/pigeonburger/server-stats
 
 
 import psutil, json
