@@ -2,7 +2,7 @@
 
 *A script that grabs various stats from your server/computer and writes them to a JSON file where you can do whatever you want with the data.*
 
-An example JSON output of this program can be found at https://pigeonburger.xyz/stats/server.json - reload it a couple of times to see it change with my server's load.
+An example JSON output of this program can be found at https://pigeonburger.xyz/api/stats/server.json - reload it a couple of times to see it change with my server's load.
 
 **A demonstration of this script working and then displaying stats can be found on the homepage of my website: https://pigeonburger.xyz**
 
